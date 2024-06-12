@@ -31,8 +31,11 @@ iframe {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 65%; /* 80% * 0.7 = 56% */
+  width: 40%; /* 80% * 0.7 = 56% */
   height: 100%; /* 100% * 0.5 = 50% */
   overflow: hidden;
   border: none;
+}
+iframe div {
+  font-size: 30em;
 }

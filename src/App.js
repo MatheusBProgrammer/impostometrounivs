@@ -14,10 +14,7 @@ function App() {
       <div id="iframe-container">
         <iframe
           src="https://impostometro.com.br/widget/contador/"
-          width="1000"
-          frameBorder="0"
           title="Impostômetro"
-          style={{ border: 0 }}
         ></iframe>
       </div>
     </div>
